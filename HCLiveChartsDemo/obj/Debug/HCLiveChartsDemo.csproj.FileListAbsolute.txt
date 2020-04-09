@@ -1,0 +1,13 @@
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\bin\Debug\HCLiveChartsDemo.exe.config
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\bin\Debug\HCLiveChartsDemo.exe
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\bin\Debug\HCLiveChartsDemo.pdb
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\bin\Debug\HCLiveCharts.dll
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\bin\Debug\HCLiveCharts.pdb
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.csprojAssemblyReference.cache
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.Form1.resources
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.Properties.Resources.resources
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.csproj.GenerateResource.cache
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.csproj.CoreCompileInputs.cache
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.csproj.CopyComplete
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.exe
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveChartsDemo\obj\Debug\HCLiveChartsDemo.pdb

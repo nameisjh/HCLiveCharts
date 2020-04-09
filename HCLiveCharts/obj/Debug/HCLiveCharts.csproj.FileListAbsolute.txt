@@ -1,0 +1,7 @@
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\bin\Debug\HCLiveCharts.dll
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\bin\Debug\HCLiveCharts.pdb
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\obj\Debug\HCLiveCharts.HCCircleChart.resources
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\obj\Debug\HCLiveCharts.csproj.GenerateResource.cache
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\obj\Debug\HCLiveCharts.csproj.CoreCompileInputs.cache
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\obj\Debug\HCLiveCharts.dll
+D:\myprojects\c#\HCLiveChartsDemo\HCLiveCharts\obj\Debug\HCLiveCharts.pdb
